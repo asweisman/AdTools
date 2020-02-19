@@ -1,14 +1,13 @@
 ---
 Module Name: AdTools
 Module Guid: a3c36b0b-7204-406c-807d-8faf8c57683b
-Download Help Link: {{ Update Download Link }}
-Help Version: {{ Please enter version of help manually (X.X.X.X) format }}
+Help Version: 1.0.0
 Locale: en-US
 ---
 
 # AdTools Module
 ## Description
-{{ Fill in the Description }}
+Module with a collection of Active Directory management related tools.
 
 ## AdTools Cmdlets
 ### [Get-ADDisabledAccount](Get-ADDisabledAccount.md)
