@@ -10,12 +10,10 @@ Locale: en-US
 Module with a collection of Active Directory management related tools.
 
 ## AdTools Cmdlets
-### [Get-ADDisabledAccount](Get-ADDisabledAccount.md)
-{{ Fill in the Description }}
+### [Get-ADDisabledAccount](https://github.com/asweisman/AdTools/blob/master/Source/en-US/Get-ADDisabledAccount.md)
 
-### [Get-ADInactiveAccount](Get-ADInactiveAccount.md)
-{{ Fill in the Description }}
+### [Get-ADInactiveAccount](https://github.com/asweisman/AdTools/blob/master/Source/en-US/Get-ADInactiveAccount.md)
 
-### [Get-ADPasswordNeverExpires](Get-ADPasswordNeverExpires.md)
-{{ Fill in the Description }}
+### [Get-ADPasswordNeverExpires](https://github.com/asweisman/AdTools/blob/master/Source/en-US/Get-ADPasswordNeverExpires.md)
+
 
