@@ -12,8 +12,6 @@ function Write-AdtLog {
     .PARAMETER Path
         Defines the path where the log file is created. 
         The default path is $ENV:ProgramDate\AdTools\AdtLog.log
-    .PARAMETER Exception
-        Used to pass a PowerShell exception to the log file.
     .PARAMETER Clear
         Clears out the log file to start with a blank file.
     .EXAMPLE
@@ -47,11 +45,6 @@ function Write-AdtLog {
                     Position=2)]
         [String]
         $Path = "$ENV:ProgramData\AdTools\AdtLog.log",
-
-        [Parameter(Mandatory=$false,
-                    Position=3)]
-        [System.Management.Automation.ErrorRecord]
-        $Exception,
 
         [Parameter(Mandatory=$false,
                     Position=4)]
